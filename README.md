@@ -1,6 +1,6 @@
 # Ecommerce App
 
-This is a simple e-commerce application built using Android Studio, Firebase, and Java. The app allows users to browse products, add items to their cart, and make purchases.
+This is a simple e-commerce application built using Android Studio, Firebase, and Java. The app allows users to browse products, add items.
 
 ## Table of Contents
 
